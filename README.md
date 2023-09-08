@@ -9,4 +9,8 @@ Added Pyarmor for obfuscation
 Fixed Geolocation bug
 Fixed Buildexe.bat not working
 Added threading for mic and video recording
-Fixed support for 70 charater discord tokens```
+Fixed support for 70 charater discord tokens
+
+
+A piece of malware/spyware written in python 3 with a ton of features and functionality
+Only works in windows 10/11
